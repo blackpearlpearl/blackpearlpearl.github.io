@@ -1,6 +1,6 @@
 {
   "name": "Blackpearlpearl.GitHub.io",
   "tagline": "",
-  "body": "\r\n<!DOCTYPE html>\r\n<html>\r\n<head>\r\n<script type=\"text/javascript\" async\r\n  src=\"https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML\">\r\n</script>\r\n</head>\r\n\r\n$$x=\\frac{-b\\pm\\sqrt{b^2-4ac}}{2a}$$\r\n\r\n$${{-b\\pm\\sqrt{{b^2}-4ac}}\\over{2a}}$$\r\n\r\n\\\\(x=\\frac{-b\\pm\\sqrt{b^2-4ac}}{2a}\\\\)\r\n\r\n$$\\frac{1}{2}$$\r\n\r\n\r\n\r\n</body>\r\n\r\n\r\n</html>",
+  "body": "<html>\r\n<head>\r\n  <script type=\"text/javascript\"\r\n     src=\"http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML\">\r\n  </script>\r\n</head>\r\n<body>\r\nLet's consider <math><mi>a</mi><mo>≠</mo><mn>0</mn></math>.\r\n</body>\r\n</html>\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
